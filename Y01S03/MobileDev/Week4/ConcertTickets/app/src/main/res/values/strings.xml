@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConcertTickets</string>
+    <string name="tvTitle">Ticket Vault</string>
+    <string name="tvTickets">Number of Tickets</string>
+    <string name="Prompt">Select Group</string>
+    <string name="Description">Concert Image</string>
+    <string name="btCost">Find the cost</string>
+    <string-array name="tvGroup">
+        <item>No Filter</item>
+        <item>Fresh Haven</item>
+        <item>Pine Mirrors</item>
+    </string-array>
+</resources>

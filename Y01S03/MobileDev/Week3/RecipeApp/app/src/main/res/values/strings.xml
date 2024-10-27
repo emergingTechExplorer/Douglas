@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="tvTitle">Strawberry Sorbet Recipe</string>
+    <string name="description">Recipe Image</string>
+    <string name="btRecipe">View Recipe</string>
+    <string name="tvIngredients">Ingredients</string>
+    <string name="tvItem1">6 cups chopped</string>
+    <string name="tvItem2">1 T. lemon juice</string>
+    <string name="tvItem3">1 cup sugar</string>
+    <string name="tvitem4">1/4 cup cold water</string>
+    <string name="tvDirections">Directions</string>
+    <string name="tvMix">Process until finished</string>
+</resources>
